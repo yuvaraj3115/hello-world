@@ -1,2 +1,2 @@
 [test]
-clientname ansible_host=<>
+<remote node  ip>
