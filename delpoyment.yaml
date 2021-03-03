@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: pod
+metadata:
+  name: hello-world-pod
+spec:
+  containers:
+    - name: hello-world-container
+      image: yuvarajnbkr2015/hello-worldimage
+      ports:
+        - name: web
+          containerPort: 8080
+          protocol: TCP
