@@ -1,2 +1,2 @@
 [test]
-Host_ip
+clientname ansible_host=<>
