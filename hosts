@@ -1,2 +1,3 @@
-[test]
-54.180.80.255
+[infrastructure]
+clientname ansible_host=192.168.0.118
+
