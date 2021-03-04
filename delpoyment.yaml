@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
     - name: hello-world-container
-      image: yuvarajnbkr2015/hello-worldimage
+      image: yuvarajnbkr2015/hey
       ports:
         - name: web
           containerPort: 8080
