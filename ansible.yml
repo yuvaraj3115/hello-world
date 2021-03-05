@@ -1,4 +1,4 @@
-- hosts: all
+- hosts: infrastructure
   tasks:
   - name: copy deployment file to kubernetes master 
     copy:
