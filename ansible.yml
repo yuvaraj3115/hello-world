@@ -2,6 +2,6 @@
   tasks:
   - name: copy deployment file to kubernetes master 
     copy:
-      src: ./deployment.yaml
+      src: ./deployment.yml
       dest: /root/
   
