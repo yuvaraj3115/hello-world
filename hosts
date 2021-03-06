@@ -1,2 +1,2 @@
 [infrastructure]
-clientname ansible_host=3.36.98.119 ansible_user=root
+clientname ansible_host=192.168.0.28 ansible_user=root
